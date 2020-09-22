@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Banner TTC",
-    "currentPage": "index.html",
+    "currentPage": "ttc.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,10 +42,17 @@
     "uniqCompNum": 4,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "ttc.html": {
       "settings": {
         "main": true,
         "title": "Home",
